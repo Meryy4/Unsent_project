@@ -14,7 +14,7 @@
 
 ##  Features
 
-### 📝 Write (Sanctuary)
+###  Write (Sanctuary)
 - Express your deepest feelings in a safe, judgment-free space
 - Address messages to anyone (optional) — past relationships, lost loved ones, or yourself
 - **AI-powered emotion analysis** detects the dominant emotion and intensity of your writing

@@ -131,24 +131,29 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ##  Acknowledgments
-
 - Inspired by the concept of therapeutic letter writing
 - Built with love for emotional wellness
 - Designed to be a digital sanctuary for healing
 
+---
+
+## ⚠️ Important Disclaimer
+
+**Unsent is not a substitute for professional mental health care.**
+
+If you're experiencing a crisis:
+- **International**: [IASP Crisis Centers](https://www.iasp.info/resources/Crisis_Centres/)
+
+This app is a complementary tool for emotional wellness, not a replacement for therapy.
 
 ---
 
 <div align="center">
-**Unsent is not a substitute for professional mental health care.**
 
-This app is a complementary tool for emotional wellness, not a replacement for therapy.
 **Made with ♡ for emotional wellness**
 
 **Note**: Emotion analysis is provisional in this PoC and will evolve into an adaptive, personalized system that learns from your unique patterns over time.
 
----
+<p><em>Your feelings are valid. Your journey matters. 💌</em></p>
 
-<p align="center">
-  <em>Your feelings are valid. Your journey matters. 💌</em>
-</p>
+</div>

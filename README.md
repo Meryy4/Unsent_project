@@ -12,11 +12,11 @@
 
 ---
 
-## 🌸 About
+##  About
 
 **Unsent** is a therapeutic web application designed to help you process unspoken emotions. Write the words you can't say, let them rest, and watch yourself heal. The app provides a safe, private space to express feelings that may never be sent — letters to loved ones, thoughts about the past, or emotions you're still working through.
 
-## ✨ Features
+##  Features
 
 ### 📝 Write (Sanctuary)
 - Express your deepest feelings in a safe, judgment-free space
@@ -25,14 +25,14 @@
 - Receive personalized comfort messages based on your emotional state
 - Choose to **keep** your entry for later reflection or **release** it
 
-### 🔄 Reflect
+###  Reflect
 - Revisit past entries after they've had time to "incubate"
 - Track how your emotions have evolved over time
 - Compare your feelings **then vs. now**
 - Receive AI-generated **growth insights** celebrating your emotional journey
 - Beautiful side-by-side visualization of your emotional progress
 
-### 📊 Emotion Journey
+###  Emotion Journey
 - Visual dashboard tracking all your emotional patterns
 - Emotion frequency bars with intensity averages
 - Beautiful emotion symbols for 12 different emotions:
@@ -40,14 +40,9 @@
   - ☀ Hope | ◐ Fear | ◯ Peace | ⋯ Longing
   - ◈ Regret | ❋ Gratitude | ≋ Anxiety | ◡ Relief
 
-### 🎨 Beautiful Design
-- Warm, calming color palette with soft gradients
-- Glassmorphism UI with backdrop blur effects
-- Floating particle animations for a serene atmosphere
-- Smooth micro-animations and transitions
-- Fully responsive design
 
-## 🚀 Getting Started
+
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+ 
@@ -78,7 +73,7 @@ npm run build
 npm run preview
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables (Optional)
 
@@ -90,7 +85,7 @@ VITE_API_KEY=your_api_key_here
 
 > **Note:** The app includes fallback responses when the AI API is unavailable, so it works out of the box without configuration.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -100,7 +95,7 @@ VITE_API_KEY=your_api_key_here
 | **Claude API** | AI Emotion Analysis |
 | **CSS-in-JS** | Styling (inline styles) |
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 unsent-app/
@@ -113,21 +108,21 @@ unsent-app/
     └── index.css       # Global styles
 ```
 
-## 🔒 Privacy
+##  Privacy
 
 - **All data is stored locally** in your browser's LocalStorage
 - No data is sent to external servers (except AI analysis requests)
 - Your entries never leave your device
 - Clear your data anytime by signing out
 
-## 🎯 Demo Mode
+##  Demo Mode
 
 The app runs in demo mode by default:
 - Click "Sign In" without credentials to enter
 - Entries become ready for reflection after **1 minute** (instead of days)
 - Perfect for testing the full experience
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -137,11 +132,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 💜 Acknowledgments
+##  Acknowledgments
 
 - Inspired by the concept of therapeutic letter writing
 - Built with love for emotional wellness
